@@ -71,7 +71,7 @@ function showDedicationText() { //seguidores
   let text = getURLParam('text');
   if (!text) {
     text = `Para el amor de mi vida:
-    Desde el primer momento supe que eras tú. Tu sonrisa, tus hermosos ojos, tus labios que me vuelven loco y esa forma tan genial que tenemos de amarnos me llenan de felicidad todos dias.\n\n
+    Desde el primer momento supe que eras tú. Tu sonrisa, tus hermosos ojos, tus labios que me vuelven loco y esa forma tan genial que tenemos de amarnos me llenan de felicidad todos los dias.\n\n
     Gracias por acompañarme en cada paso, por entenderme, y por llenar mis días de amor.\n\n
     Te amo más de lo que las palabras pueden expresar.\n\n
    With all my love. Remember, we need to practice more English. And if you smile while reading this message… 
